@@ -1,1 +1,0 @@
-# my-thank-you-action
